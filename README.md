@@ -56,9 +56,6 @@ This is a basic example and you should replace it with your actual configuration
 
 We welcome contributions to this project. Please follow the standard contribution guidelines.
 
-**License**
-
-This project is licensed under the MIT License.
 
 **Troubleshooting**
 
